@@ -1,4 +1,4 @@
-xA Basic Rails Blog
+A Basic Rails Blog
 ------------------
 
 Purpose
